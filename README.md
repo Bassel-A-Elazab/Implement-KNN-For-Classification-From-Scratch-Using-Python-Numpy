@@ -85,4 +85,22 @@
                             and pick the k with the lowest "esstimate error"
                             
  
-  <img src="Img/cross.png" width="500" > 
+<img src="Img/cross.png" width="500" > 
+  
+  # Pros
+    1 - It's simple to implement.
+    2 - Training is easier.
+    3 - Has few paramteres.
+    4 - Uses lazy learining algorithm.
+    
+  # Cons
+    1 - High prediction cost.
+    2 - Dosn't play well with numerous features.
+    
+  # References
+    [1] https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html
+    [2] https://scikit-learn.org/stable/modules/generated/sklearn.metrics.accuracy_score.html#sklearn.metrics.accuracy_score
+    [3] https://www.datacamp.com/community/tutorials/k-nearest-neighbor-classification-scikit-learn
+    [4] https://engineering.eckovation.com/knn-introduction-implementation-using-scikit-learn/
+    [5] https://machinelearningmastery.com/tutorial-to-implement-k-nearest-neighbors-in-python-from-scratch/
+    [6] https://scikit-learn.org/stable/modules/cross_validation.html
