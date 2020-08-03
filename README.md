@@ -83,3 +83,6 @@
             which means the final estimate of the error of KNN for a specific value of K.
     Seventh and last step : experiment with multiple values of k = 1 , 3 , 5 , ...
                             and pick the k with the lowest "esstimate error"
+                            
+ 
+  <img src="Img/cross.png" width="500" > 
